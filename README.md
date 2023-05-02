@@ -1,4 +1,4 @@
-# GifMeUpBot
+# Gif Me Up Bot
 A Telegram Gif Bot
 
 
